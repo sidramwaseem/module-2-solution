@@ -1,3 +1,17 @@
+section{
+  width: 100%;
+}
+.section-heading{
+  border: 2px solid brown;
+  text-align: center;
+}
+
+.menu-box{
+  border: 2px solid yellow;
+}
+
 .menu-item{
   border: 3px solid green;
+  width: 30%;
+  display:inline-block;
 }
