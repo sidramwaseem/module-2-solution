@@ -13,5 +13,5 @@ section{
 .menu-item{
   border: 3px solid green;
   width: 30%;
-  display:inline-block;
+  text-align: center;
 }
