@@ -1,2 +1,2 @@
-# module2-solution
-Coursera Course- sidramwaseem/module2-solution . Module 2 Solution
+# Module 2 Solution
+Coursera Course- https://www.coursera.org/learn/html-css-javascript-for-web-developers
