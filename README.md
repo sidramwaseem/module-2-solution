@@ -4,4 +4,4 @@ Coursera Course- https://www.coursera.org/learn/html-css-javascript-for-web-deve
 Preview: https://sidramwaseem.github.io/module-2-solution/
 
 Here is the mockup illustration of the desktop version of the site.
-https://github.com/sidramwaseem/module-2-solution/blob/main/previews/desktop-view.png?raw=true
+[!screenshot]: https://github.com/sidramwaseem/module-2-solution/blob/main/previews/desktop-view.png?raw=true
