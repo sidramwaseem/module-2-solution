@@ -7,7 +7,7 @@ Preview: https://sidramwaseem.github.io/module-2-solution/
 <h4>Desktop Preview </h4>
 Here is the mockup illustration of the desktop version of the site.
 <br>
-![Alt text](https://github.com/sidramwaseem/module-2-solution/blob/main/previews/desktop-view.png?raw=true)
+![screenshot](https://github.com/sidramwaseem/module-2-solution/blob/main/previews/desktop-view.png?raw=true)
 <br>
 <br>
 <h4>Tablet Preview</h4>
